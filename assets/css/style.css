@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%
+}
+body {
+    font-size: 1.6rem;
+    font-family: 'Poppins', sans-serif;
+}
+h1,h2,h3 {
+    font-family: 'Sora', sans-serif;
+}
+input , button , textarea , label {
+    font-size: inherit;
+    font-family: inherit;
+}
